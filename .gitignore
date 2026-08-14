@@ -1,0 +1,79 @@
+# ==========================================
+# WSoft Lite 1.6 - Archivos excluidos
+# ==========================================
+
+# --- Datos de WSoft generados en cada PC ---
+config/
+db/
+backup/
+documentos/
+tickets/
+datosConfig/
+
+# --- Bases de datos ---
+*.db
+*.sqlite
+*.sqlite3
+
+# --- Licencias e información de instalación ---
+*.lic
+system.dat
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Entornos virtuales ---
+venv/
+.venv/
+env/
+.env/
+
+# --- Compilación / PyInstaller ---
+build/
+dist/
+*.spec
+
+# --- Editores ---
+.vscode/
+.idea/
+
+# --- Archivos temporales ---
+*.tmp
+*.temp
+*.log
+
+# --- Sistema operativo ---
+Thumbs.db
+.DS_Store
+
+# ==========================================
+# Archivos de desarrollo / versiones antiguas
+# ==========================================
+
+activador.py
+crear_licencia.py
+
+comprasbueno.py
+
+config1.py
+configuracion1.py
+configuracion28.py
+configuracionmalo.py
+
+licenciasold.py
+
+main1.py
+main2licenciavieja.py
+
+prueba_crypto.py
+prueba_crypto1.py
+prueba_licencia.py
+prueba_storage.py
+test_demo.py
+
+models/inventario_model1.py
+
+crypto.py
+crypto_privado_backup.py
