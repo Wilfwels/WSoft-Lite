@@ -166,5 +166,37 @@ Proyecto desarrollado con Python.
 El proyecto cuenta con un manual de instalación y documentación de apoyo para facilitar la puesta en marcha del sistema.
 
 ---
+---
+
+## 📸 Capturas de pantalla
+
+A continuación se muestran algunas de las principales pantallas de WSoft Lite 1.6.
+
+> Las capturas corresponden a una instalación de demostración del sistema.
+
+### 🔐 Inicio de sesión
+
+<!-- Captura del inicio de sesión -->
+
+### 🏠 Panel principal
+
+<!-- Captura del dashboard -->
+
+### 📦 Inventario
+
+<!-- Captura del módulo de inventario -->
+
+### 🛒 Punto de venta
+
+<!-- Captura del módulo de ventas -->
+
+### 🧾 Compras
+
+<!-- Captura del módulo de compras -->
+
+### 📊 Reportes y Kardex
+
+<!-- Captura de reportes o kardex -->
+
 
 ⭐ Si este proyecto te resulta interesante, puedes seguir su evolución aquí en GitHub.
