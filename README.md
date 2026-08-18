@@ -180,7 +180,7 @@ A continuación se muestran algunas de las principales pantallas de WSoft Lite 1
 
 ### 🏠 Panel principal
 
-<!-- Captura del dashboard -->
+![Panel principal de WSoft Lite](docs/capturas/menu%20operaciones.png)
 
 ### 📦 Inventario
 
