@@ -199,19 +199,19 @@ A continuación se muestran algunas de las principales pantallas de WSoft Lite 1
 <!-- Captura de reportes o kardex -->
 
 Funcionalidades principales
-Gestión de productos e inventario
-Control de clientes y proveedores
-Gestión de compras y entradas de inventario
-Gestión de salidas de inventario
-Punto de venta y registro de ventas
-Control de vendedores
-Kardex y movimientos de inventario
-Reportes de gestión
-Exportación de información a Excel
-Generación de documentos en PDF
-Sistema de respaldo y restauración de datos
-Configuración de empresa y usuarios
-Sistema de licencia y modo demostración
+  Gestión de productos e inventario
+  Control de clientes y proveedores
+  Gestión de compras y entradas de inventario
+  Gestión de salidas de inventario
+  Punto de venta y registro de ventas
+  Control de vendedores
+  Kardex y movimientos de inventario
+  Reportes de gestión
+  Exportación de información a Excel
+  Generación de documentos en PDF
+  Sistema de respaldo y restauración de datos
+  Configuración de empresa y usuarios
+  Sistema de licencia y modo demostración
 
 
 ⭐ Si este proyecto te resulta interesante, puedes seguir su evolución aquí en GitHub.
