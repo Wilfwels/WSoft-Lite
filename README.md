@@ -176,7 +176,7 @@ A continuación se muestran algunas de las principales pantallas de WSoft Lite 1
 
 ### 🔐 Inicio de sesión
 
-![Inicio de sesión de WSoft Lite](docs/capturas/login.png)
+![Inicio de sesión de WSoft Lite](docs/capturas/Login.png)
 
 ### 🏠 Panel principal
 
