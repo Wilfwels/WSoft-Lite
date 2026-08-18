@@ -147,9 +147,9 @@ Proyecto en evolución y mejora continua.
 
 ### WSoft-Lite Administrativo
 
-Una futura evolución del proyecto orientada a ampliar las funciones administrativas y comerciales.
+La instalación y puesta en marcha de WSoft Lite se encuentran documentadas en el manual de instalación incluido con el proyecto.
 
-El objetivo es incorporar nuevas herramientas manteniendo la filosofía de WSoft Lite: **sencillez, funcionalidad y facilidad de uso.**
+La versión ejecutable de WSoft Lite 1.6 está preparada para su distribución en Windows.
 
 ---
 
