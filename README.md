@@ -184,7 +184,7 @@ A continuación se muestran algunas de las principales pantallas de WSoft Lite 1
 
 ### 📦 Inventario
 
-<!-- Captura del módulo de inventario -->
+![Inventario de WSoft Lite](docs/capturas/menu%20inventario.png)
 
 ### 🛒 Punto de venta
 
