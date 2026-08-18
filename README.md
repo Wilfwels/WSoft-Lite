@@ -188,14 +188,14 @@ A continuación se muestran algunas de las principales pantallas de WSoft Lite 1
 
 ### 🛒 Punto de venta
 
-<!-- Captura del módulo de ventas -->
+![Punto de Ventas de WSoft Lite](docs/capturas/ventas.jpg)
 
 ### 🧾 Compras
 
-<!-- Captura del módulo de compras -->
+![Compras de WSoft Lite](docs/capturas/compras.jpg)
 
 ### 📊 Reportes y Kardex
 
-<!-- Captura de reportes o kardex -->
+![Reportes de WSoft Lite](docs/capturas/reportes.jpg)
 
 ⭐ Si este proyecto te resulta interesante, puedes seguir su evolución aquí en GitHub.
